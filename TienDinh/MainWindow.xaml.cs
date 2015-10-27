@@ -23,7 +23,7 @@ namespace TienDinh
         public MainWindow()
         {
             InitializeComponent();
-            CGlobal.imgSrc = defaultSrc =  ((ImageBrush)mainWindow.Background).ImageSource;
+            CGlobal.imgSrc = defaultSrc =  imgBG.ImageSource;
         }
 
         private void Window_KeyDown(object sender, KeyEventArgs e)
