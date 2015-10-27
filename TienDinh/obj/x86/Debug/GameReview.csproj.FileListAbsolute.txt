@@ -1,0 +1,2 @@
+D:\TienDinh\TienDinh\obj\x86\Debug\TienDinh.exe
+D:\TienDinh\TienDinh\obj\x86\Debug\TienDinh.pdb

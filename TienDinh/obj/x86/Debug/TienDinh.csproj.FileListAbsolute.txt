@@ -1,0 +1,15 @@
+D:\TienDinh\TienDinh\bin\Debug\TienDinh.exe
+D:\TienDinh\TienDinh\bin\Debug\TienDinh.pdb
+D:\TienDinh\TienDinh\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TienDinh\TienDinh\obj\x86\Debug\MainWindow.baml
+D:\TienDinh\TienDinh\obj\x86\Debug\MainWindow.g.cs
+D:\TienDinh\TienDinh\obj\x86\Debug\App.g.cs
+D:\TienDinh\TienDinh\obj\x86\Debug\TienDinh_MarkupCompile.cache
+D:\TienDinh\TienDinh\obj\x86\Debug\TienDinh.g.resources
+D:\TienDinh\TienDinh\obj\x86\Debug\TienDinh.Properties.Resources.resources
+D:\TienDinh\TienDinh\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\TienDinh\TienDinh\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\TienDinh\TienDinh\obj\x86\Debug\TienDinh.exe
+D:\TienDinh\TienDinh\obj\x86\Debug\TienDinh.pdb
+D:\TienDinh\TienDinh\obj\x86\Debug\frmViewImage.baml
+D:\TienDinh\TienDinh\obj\x86\Debug\frmViewImage.g.cs
